@@ -1,6 +1,6 @@
 # Dynamic Graph Convolutional Neural Network for Link Prediction in Twitter Data 
 
-#### Keywords : Dynamic Graph Convolutional Neural Network (DGCNN), Link Prediction, Twitter Data, Graph Neural Networks (GCNN), Social Network Analysis.
+#### Keywords : Dynamic Graph Convolutional Neural Network (DGCNN), Link Prediction, Twitter Data, Graph Neural Networks (GNN), Social Network Analysis.
 
 This project explores link prediction in Twitter user data using a **Dynamic Graph Convolutional Neural Network (DGCNN)**. The key innovation lies in leveraging a **dynamic adjacency matrix for link prediction**, combined with a **low-dimensional representation** to efficiently manage the high number of parameters. This approach enhances the model’s ability to capture the evolving relationships between users.
 
